@@ -1,17 +1,16 @@
 [
     {
-      "title": "西穂高・夏・単独（岩稜）",
-      "text": "2025年8月31日、20代から40代の男性1名。西穂高。上高地→西穂山荘→独標（往復）。午後に風が強まる予報。岩稜帯経験少なめ、ヘルメットあり。",
+      "title": "北アルプス鹿島槍ヶ岳・単独",
+      "text": "2025年9月26日の夏。男は40代でパーティは1人。北アルプスの鹿島槍ヶ岳は、尾根、稜線、峰、鎖、沢、キレット、難所、縦走、注意、岩場、新道、登攀がある。",
       "links": [
-        {"label": "西穂独標付近の事故例", "url": "https://example.com/article1"},
-        {"label": "三点支持の基本", "url": "https://example.com/article2"}
+        {"label": "滑落の事故例", "url": "https://news.yahoo.co.jp/articles/222d66e8aeedced51b3a86914279fce596355f2a"},
       ]
     },
     {
-      "title": "谷川岳・厳冬期・2名（雪崩）",
-      "text": "1月下旬、30代2名。谷川岳 天神尾根。前日まで降雪、当日午前は晴れ。ビーコン・プローブ・ショベル携行。樹林帯を外れて斜度35°付近をトラバース予定。",
+      "title": "八ヶ岳連峰の赤岳・4名",
+      "text": "2025年7月12日の夏。女は30代でパーティは4人。八ヶ岳連峰の赤岳は、沢、注意がある。",
       "links": [
-        {"label": "雪崩情報の読み方", "url": "https://example.com/article3"}
+        {"label": "転倒の事故例", "url": "https://www.pref.nagano.lg.jp/kankoki/sangyo/kanko/sotaikyo/sangakutusin.html"}
       ]
     }
   ]
